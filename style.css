@@ -219,6 +219,6 @@ nav ul li a:hover:after{
   .wrapper .linkedin:hover,
   .wrapper .linkedin:hover .tooltip
   .wrapper .linkedin:hover .tooltip::before{
-    background-color: #de463b;
-    color: #ffffff;
+    background-color: #083bf4;
+    color: #fffafa;
   }
