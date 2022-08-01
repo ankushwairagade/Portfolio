@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 
 :root{
-    --main-color:#e38528;
+    --main-color:#dbc412;
 }
 
 *{
@@ -22,7 +22,7 @@ html{
 }
 
 body{
-    background: #fcf2e8;
+    background: #323232;
     padding-left: 30rem;
 }
 
@@ -34,7 +34,7 @@ section{
 .heading{
     font-size: 4rem;
     padding-bottom: 1rem;
-    color:#111;
+    color:#fff;
     text-transform: uppercase;
 }
 
@@ -182,7 +182,7 @@ header .follow a:hover{
 
 .home .content h3{
     font-size: 4.5rem;
-    color:#111;
+    color:#fff;
     text-transform: uppercase;
 }
 
@@ -193,13 +193,13 @@ header .follow a:hover{
 
 .home .content .info{
     font-size: 2.5rem;
-    color:#111;
+    color: #fff;
     padding:.5rem 0;
 }
 
 .home .content .text{
     font-size: 1.7rem;
-    color:#666;
+    color:#fff;
     padding:.5rem 0;
 }
 
@@ -228,12 +228,12 @@ header .follow a:hover{
 }
 
 .about .row-1 .content h3{
-    color:#333;
+    color:#fff;
     font-size: 3.5rem;
 }
 
 .about .row-1 .content p{
-    color:#666;
+    color:#fff;
     font-size: 1.7rem;
     padding:.5rem 0;
 }
@@ -416,9 +416,14 @@ header .follow a:hover{
     color:#111;
 }
 
+.experience .box-container .box .content h1{
+    font-size: 2.2rem;
+    padding:.5rem 0;
+    color:#111;
+}
 .experience .box-container .box .content p{
-    font-size: 1.5rem;
-    color:#666;
+    font-size: 1.8rem;
+    color:#222;
 }
 
 .portfolio .box-container{
@@ -517,7 +522,7 @@ header .follow a:hover{
 }
 
 .contact .icons-container .icons p{
-    color:#666;
+    color:#222;
     font-size: 1.7rem;
 }
 
