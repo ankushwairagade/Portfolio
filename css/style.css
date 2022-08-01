@@ -460,8 +460,8 @@ header .follow a:hover{
 .portfolio .box-container .box h3{
     position: absolute;
     bottom:.5rem; left:1rem;
-    font-size: 2.5rem;
-    color:#333;
+    font-size: 2rem;
+    color:#222;
     text-transform: uppercase;
 }
 
@@ -522,8 +522,8 @@ header .follow a:hover{
 }
 
 .contact .icons-container .icons p{
-    color:#222;
-    font-size: 1.7rem;
+    color:#111;
+    font-size: 1.8rem;
 }
 
 .contact .row{
